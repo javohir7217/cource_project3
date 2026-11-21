@@ -1,0 +1,1 @@
+/home/javohir/project1/mvn

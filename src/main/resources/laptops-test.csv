@@ -1,0 +1,7 @@
+id,name,price,os,cpu
+1,ASUS Vivobook,45000,Windows,Intel i7
+2,Apple MacBook Pro,120000,macOS,Apple M2
+3,Dell XPS 13,85000,Windows,Intel i5
+4,Lenovo ThinkPad,65000,Linux,AMD Ryzen 7
+5,HP Pavilion,35000,Windows,Intel i3
+
